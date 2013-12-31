@@ -1,6 +1,6 @@
 {
   "name": "Jekboil",
-  "description": "",
+  "description": "Fuel your Jekyll development with requirejs, LESS, and Grunt",
   "version": "0.0.1",
   "dependencies": {
     "requirejs": "2.1.9"

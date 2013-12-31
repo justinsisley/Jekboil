@@ -1,5 +1,5 @@
 name: Jekboil
-description: 
+description: "Fuel your Jekyll development with requirejs, LESS, and Grunt"
 
 markdown: redcarpet
 pygments: true
