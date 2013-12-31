@@ -1,0 +1,1 @@
+For more information about working with Jekyll, [read the docs](http://jekyllrb.com/docs/home/).
