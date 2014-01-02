@@ -84,6 +84,12 @@ module.exports = function(grunt) {
                     'less:dev',
                     'clean:tmp'
                 ]
+            },
+            css: {
+                files: ['css/style.css'],
+                options: {
+                    livereload: true
+                }
             }
         }
     });
