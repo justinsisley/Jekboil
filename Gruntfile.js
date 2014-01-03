@@ -85,8 +85,8 @@ module.exports = function(grunt) {
                     'clean:tmp'
                 ]
             },
-            css: {
-                files: ['css/style.css'],
+            livereload: {
+                files: ['_site/css/*'],
                 options: {
                     livereload: true
                 }
