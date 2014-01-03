@@ -2,7 +2,7 @@
 
 [Jekyll](http://jekyllrb.com/) is nice. It's simple to use, and goes hand-in-hand with [Github Pages](http://pages.github.com/).
 
-Here's the thing: I prefer [LESS](http://lesscss.org/) to [SASS/SCSS](http://sass-lang.com/). I use both on a daily basis, but when it comes down to it, I'm a LESS man. Therefore, this Jekyll site boilerplate uses LESS.
+Here's the thing: I prefer [LESS](http://lesscss.org/) to [SASS/SCSS](http://sass-lang.com/). I use both on a daily basis, but when it comes down to it, I'm like LESS. Therefore, this Jekyll site boilerplate uses LESS.
 
 I'm also a [requirejs](http://requirejs.org/) power user, and while it's completely unnecessary if my project uses little or no JavaScript, I prefer to have requirejs ready to rock in case a project is, or becomes, JavaScript heavy.
 
